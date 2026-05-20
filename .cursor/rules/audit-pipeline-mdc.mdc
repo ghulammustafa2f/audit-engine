@@ -1,0 +1,16 @@
+---
+description: 
+alwaysApply: true
+---
+
+Audit runs must complete under 90 seconds.
+
+All AI calls live in /lib/ai/
+
+All PDF templates live in /lib/pdf/
+
+Audit logic lives in /lib/audit/
+
+Never place business logic inside UI components.
+
+All responses must use typed schemas.

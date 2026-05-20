@@ -1,0 +1,13 @@
+---
+alwaysApply: true
+---
+
+Always use shadcn/ui primitives.
+
+Never write raw button elements.
+
+Use reusable components.
+
+Prefer server components unless interactivity required.
+
+Keep components small and isolated.

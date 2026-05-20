@@ -1,0 +1,24 @@
+---
+alwaysApply: true
+---
+
+Use consistent spacing scale.
+
+Radius:
+- cards: rounded-2xl
+- buttons: rounded-xl
+
+Typography:
+- Geist Sans only
+- clean modern SaaS style
+
+Colors:
+- black backgrounds
+- white text
+- neutral grays
+- avoid random colors
+
+Layout:
+- max-width containers
+- strong whitespace
+- mobile-first
